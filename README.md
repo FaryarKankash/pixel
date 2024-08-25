@@ -1,1 +1,1 @@
-#Pixel art 🖼️ editor with golang
+# Pixel art 🖼️ editor with golang
